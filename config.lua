@@ -307,6 +307,26 @@ Translation = { --LOCALE
         ["stress_gain"] = "თავს გრძნობ მეტი სტრესის ქვეშ!",
         ["stress_removed"] = "თავს გრძნობ რელაქსირებულად!",
     },
+
+    ['id'] = {
+         ["hud_settings_loaded"] = "Memuat pengaturan HUD!",
+         ["hud_restart"] = "HUD sedang dimulai ulang!",
+         ["hud_start"] = "HUD aktif!",
+         ["hud_command_info"] = "perintah ini akan mereset data tersebut!",
+         ["load_square_map"] = "memuat peta...",
+         ["loaded_square_map"] = "peta dimuat!",
+         ["load_circle_map"] = "memuat peta lingkaran...",
+         ["loaded_circle_map"] = "peta lingkaran dimuat!",
+         ["cinematic_on"] = "Mode sinematik aktif!",
+         ["cinematic_off"] = "Nonaktifkan Mode Sinematik!",
+         ["engine_on"] = "mesin menyala!",
+         ["engine_off"] = "mesin mati!",
+         ["low_fuel"] = "indikator tangki bahan bakar sedikit!",
+         ["access_denied"] = "Anda tidak diizinkan!",
+         ["stress_gain"] = "Anda merasa sangat stres!",
+         ["stress_removed"] = "Anda merasa santai!",
+     },
+    
     ['it'] = {
         ["hud_settings_loaded"] = "Impostazioni HUD Caricate!",
         ["hud_restart"] = "L\'HUD si sta restartando!",
